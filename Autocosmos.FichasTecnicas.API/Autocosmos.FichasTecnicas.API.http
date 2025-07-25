@@ -1,0 +1,6 @@
+@Autocosmos.FichasTecnicas.API_HostAddress = http://localhost:5169
+
+GET {{Autocosmos.FichasTecnicas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
